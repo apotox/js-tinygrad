@@ -25,7 +25,7 @@ n.train(xs, ys, 0.02, 1000, 'tanh');
 
 ### Example
 ```bash
-> node demo.js
+
 ...
 loss 2.743117174117855
 loss 0.9278638782737499
